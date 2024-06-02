@@ -20,7 +20,7 @@ Link-Lite is a Discord bot that brings the convenience of URL shortening right i
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Adityasahni04/LinkLite.git
+   git clone https://github.com/Adityasahni04/LinkLite-DiscordBot.git
 2. Install dependencies:
 
    ```bash

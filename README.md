@@ -1,6 +1,6 @@
 # Link-Lite
 
-Link-Lite integrates URL shortener functionalities into a Discord bot. Users can import the bot and interact with it by typing commands.
+Link-Lite is a Discord bot that brings the convenience of URL shortening right into your server! Inspired by a previous URL shortener project, Link-Lite allows users to shorten URLs directly within Discord using simple commands.
 
 ## Features
 
